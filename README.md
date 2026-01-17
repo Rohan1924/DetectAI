@@ -67,7 +67,7 @@ Models used (ensemble):
 ## 🌐 Backend API
 
 Backend hosted on Hugging Face Spaces:  
-`https://kushalkv-detectai-api.hf.space/`
+`https://rohan-detectai-api.hf.space/`
 
 ### Endpoints
 | Method | Endpoint        | Description                   |
@@ -78,7 +78,7 @@ Backend hosted on Hugging Face Spaces:
 
 ### Android Base URL  
 ```kotlin
-const val BASE_URL = "https://kushalkv-detectai-api.hf.space/"
+const val BASE_URL = "https://rohan-detectai-api.hf.space/"
 ```
 
 The backend uses a Docker-based Space with a `Dockerfile` and CI/CD syncing via GitHub Actions.
