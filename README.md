@@ -4,7 +4,7 @@ An open-source Android application that detects whether text or images are AI-ge
 ---
 
 ## 🎥 Demo Video    
-**Demo:** [Watch the demo video](https://github.com/user-attachments/assets/a4aee0a7-0289-4aa1-9054-23f60cacf650](https://github.com/user-attachments/assets/809f1cd2-19fd-4478-a067-7ce8d2b43912)
+**Demo:** [Watch the demo video](https://github.com/user-attachments/assets/809f1cd2-19fd-4478-a067-7ce8d2b43912)
 
 ---
 
